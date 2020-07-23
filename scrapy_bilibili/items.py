@@ -28,7 +28,7 @@ class BilibiliVideoListItem(Item):
     favorite = Field()  # 收藏数
     share = Field()  # 分享数
 
-    cid = Field()  # 标签ID
+    cid = Field()  # 未知
 
     # UP主信息
     mid = Field()  # UP主ID
