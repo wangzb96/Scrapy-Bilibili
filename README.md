@@ -1,16 +1,27 @@
-# 基于Scrapy的B站爬虫
+# **基于Scrapy的B站爬虫**
 
-基于Scrapy的B站爬虫的小Demo，可以爬取视频列表的信息，需要安装Redis和MongoDB。
+基于Scrapy的B站爬虫的小Demo，可以爬取视频列表的信息，需要安装Redis和MongoDB。\
 Windows系统下Redis可以用Memurai代替。
 
-## 现有的功能
+---
+
+## **现有的功能**
 
 可以爬取B站视频列表中每个视频的信息：
 
+<div style="text-align:center;">
+    <img style="vertical-align:middle;"
+        src="image/B站视频列表.png" width="80%">
+</div>
 
-获取的视频的信息如下：
+可获取的视频信息如下：
 
+<div style="text-align:center;">
+    <img style="vertical-align:middle;"
+        src="image/B站视频信息.png" width="80%">
+</div>
 
+---
 
 ## 运行爬虫
 
